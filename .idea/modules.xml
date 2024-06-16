@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Holamundo-gradel.iml" filepath="$PROJECT_DIR$/.idea/Holamundo-gradel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/holamundo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/holamundo.main.iml" />
     </modules>
   </component>
 </project>
